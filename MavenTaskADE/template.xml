@@ -1,0 +1,11 @@
+
+<plataforma_streaming>
+    <contenido>
+        <titulo>Titulo del contenido</titulo>
+        <descripcion>Descripcion del contenido</descripcion>
+        <categoria>Categoria de contenido</categoria>
+        <creador>Edu</creador>
+        <año_publicacion>2025</año_publicacion>
+        <clasificacion_edad>18</clasificacion_edad>
+    </contenido>
+</plataforma_streaming>

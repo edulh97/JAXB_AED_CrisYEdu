@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plataforma_streaming>
+    <contenido>
+        <titulo>El juego del calamar</titulo>
+        <descripcion>
+        Competidores endeudados participan en peligrosos juegos infantiles por un premio millonario.
+        </descripcion>
+        <categoria>Drama</categoria>
+        <creador>Hwang Dong-hyuk</creador>
+        <año_publicacion>2021</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Stranger Things</titulo>
+        <descripcion>
+        Un grupo de niños enfrenta sucesos sobrenaturales y secretos gubernamentales en los años 80.
+        </descripcion>
+        <categoria>Ciencia Ficción</categoria>
+        <creador>Duffer Brothers</creador>
+        <año_publicacion>2016</año_publicacion>
+        <clasificacion_edad>13+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>The Witcher</titulo>
+        <descripcion>
+        Geralt de Rivia, un cazador de monstruos, lucha por encontrar su lugar en un mundo lleno de traiciones.
+        </descripcion>
+        <categoria>Fantasía</categoria>
+        <creador>Lauren Schmidt Hissrich</creador>
+        <año_publicacion>2019</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>La casa de papel</titulo>
+        <descripcion>
+        Un grupo de atracadores intenta ejecutar el robo más grande de la historia en España.
+        </descripcion>
+        <categoria>Crimen</categoria>
+        <creador>Álex Pina</creador>
+        <año_publicacion>2017</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Dark</titulo>
+        <descripcion>
+        Misteriosas desapariciones en un pequeño pueblo revelan un secreto relacionado con el tiempo.
+        </descripcion>
+        <categoria>Drama</categoria>
+        <creador>Baran bo Odar</creador>
+        <año_publicacion>2017</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>El poder del perro</titulo>
+        <descripcion>
+        Un vaquero intimida al nuevo esposo de su hermano hasta que secretos oscuros salen a la luz.
+        </descripcion>
+        <categoria>Drama</categoria>
+        <creador>Jane Campion</creador>
+        <año_publicacion>2021</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Heartstopper</titulo>
+        <descripcion>
+        Dos adolescentes descubren el amor y la amistad mientras navegan por las complejidades de la vida.
+        </descripcion>
+        <categoria>Romance</categoria>
+        <creador>Alice Oseman</creador>
+        <año_publicacion>2022</año_publicacion>
+        <clasificacion_edad>13+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Bridgerton</titulo>
+        <descripcion>
+        En la alta sociedad londinense, los Bridgerton buscan el amor y la felicidad bajo presión social.
+        </descripcion>
+        <categoria>Drama</categoria>
+        <creador>Chris Van Dusen</creador>
+        <año_publicacion>2020</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Umbrella Academy</titulo>
+        <descripcion>
+        Una familia disfuncional de superhéroes se reúne para resolver la muerte de su padre adoptivo.
+        </descripcion>
+        <categoria>Ciencia Ficción</categoria>
+        <creador>Steve Blackman</creador>
+        <año_publicacion>2019</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Wednesday</titulo>
+        <descripcion>
+        La hija de los Addams, Wednesday, investiga misterios mientras asiste a una academia especial.
+        </descripcion>
+        <categoria>Comedia</categoria>
+        <creador>Alfred Gough</creador>
+        <año_publicacion>2022</año_publicacion>
+        <clasificacion_edad>13+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>You</titulo>
+        <descripcion>
+        Un librero obsesivo utiliza medios extremos para ganarse el amor de su interés romántico.
+        </descripcion>
+        <categoria>Thriller</categoria>
+        <creador>Greg Berlanti</creador>
+        <año_publicacion>2018</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Cobra Kai</titulo>
+        <descripcion>
+        Rivalidades antiguas resurgen cuando los dojos Karate Cobra Kai y Miyagi-Do chocan.
+        </descripcion>
+        <categoria>Acción</categoria>
+        <creador>Josh Heald</creador>
+        <año_publicacion>2018</año_publicacion>
+        <clasificacion_edad>13+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>El agente nocturno</titulo>
+        <descripcion>
+        Un agente del FBI se ve atrapado en una conspiración que pone en peligro la seguridad nacional.
+        </descripcion>
+        <categoria>Suspenso</categoria>
+        <creador>Shawn Ryan</creador>
+        <año_publicacion>2023</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Resident Evil</titulo>
+        <descripcion>
+        Adaptación de la saga de videojuegos, explorando el apocalipsis zombi desde una nueva perspectiva.
+        </descripcion>
+        <categoria>Ciencia Ficción</categoria>
+        <creador>Andrew Dabb</creador>
+        <año_publicacion>2022</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Inventando a Anna</titulo>
+        <descripcion>
+        La increíble historia real de una estafadora que engañó a la élite de Nueva York.
+        </descripcion>
+        <categoria>Drama</categoria>
+        <creador>Shonda Rhimes</creador>
+        <año_publicacion>2022</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Arcane</titulo>
+        <descripcion>
+        Basada en el universo de League of Legends, esta serie explora los orígenes de sus personajes.
+        </descripcion>
+        <categoria>Animación</categoria>
+        <creador>Riot Games</creador>
+        <año_publicacion>2021</año_publicacion>
+        <clasificacion_edad>13+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Vikings: Valhalla</titulo>
+        <descripcion>
+        Secuela de la serie "Vikings", enfocada en los descendientes y su lucha por la gloria.
+        </descripcion>
+        <categoria>Historia</categoria>
+        <creador>Jeb Stuart</creador>
+        <año_publicacion>2022</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Sandman</titulo>
+        <descripcion>
+        Morfeo, el rey de los sueños, debe restaurar su reino después de un largo cautiverio.
+        </descripcion>
+        <categoria>Fantasía</categoria>
+        <creador>Neil Gaiman</creador>
+        <año_publicacion>2022</año_publicacion>
+        <clasificacion_edad>16+</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>El reino de los cielos</titulo>
+        <descripcion>
+        Documental sobre las maravillas y los misterios del universo, narrado por expertos.
+        </descripcion>
+        <categoria>Documental</categoria>
+        <creador>SpaceDocs</creador>
+        <año_publicacion>2023</año_publicacion>
+        <clasificacion_edad>ATP</clasificacion_edad>
+    </contenido>
+    <contenido>
+        <titulo>Miércoles en Japón</titulo>
+        <descripcion>
+        Una comedia romántica sobre el choque cultural de una mujer occidental en Tokio.
+        </descripcion>
+        <categoria>Comedia</categoria>
+        <creador>EastWest Studios</creador>
+        <año_publicacion>2023</año_publicacion>
+        <clasificacion_edad>13+</clasificacion_edad>
+    </contenido>
+</plataforma_streaming>
