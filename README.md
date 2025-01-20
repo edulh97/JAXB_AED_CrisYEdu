@@ -1,6 +1,6 @@
 # CRUD de XML con JAXB
 
-Este proyecto implementa un CRUD (Crear, Leer, Actualizar, Eliminar) utilizando **JAXB** para gestionar datos almacenados en formato XML. 
+Este proyecto implementa un CRUD (Crear, Leer, Actualizar, Eliminar) utilizando **JAXB** y Java para gestionar datos almacenados en formato XML. 
 
 ## Modelo de Datos
 
